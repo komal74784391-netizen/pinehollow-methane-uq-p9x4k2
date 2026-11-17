@@ -1,0 +1,4 @@
+alpha: 0.1
+grid_spacing_m: 25
+transect_height_m: 30
+wind_bins: [0, 2, 4, 6, 8]
